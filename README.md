@@ -9,7 +9,7 @@
 * [대상 시스템 품질 요소 추정하기](doc/quality_attributes.md)
 * [프로젝트 관리 계획서](doc/project_management_plan.md)
 * [요구사항 정의서](doc/requirements.md)
-* [요구사항 분석서](doc/requirements_analysis.md)
+* [요구사항 분석서](doc/project_management_judge)
 
 ---
 
